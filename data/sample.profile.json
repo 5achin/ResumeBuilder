@@ -1,0 +1,33 @@
+{
+  "personal_info": {
+    "name": "Ivy Haddington",
+    "email": "ihaddington@email.com",
+    "city": "Austin",
+    "state": "TX",
+    "phone": "(123)456-7891"
+  },
+  "summary": "Focused and quick-learning Software Engineer with 3 years of experience in computer science, programming, and UX design for various projects and clients.",
+  "educators": [
+    {
+      "name": "Hawaii Western",
+      "degree": "Bachelor of Science in Electrical Engineering",
+      "graduated": "May 2014"
+    }
+  ],
+  "employers": [
+    {
+      "id": "CJ",
+      "name": "Crane & Jenkins",
+      "position": "Software Engineer",
+      "start_date": "July 2019",
+      "end_date": "Current"
+    },
+    {
+      "id": "TL",
+      "name": "Tradelot",
+      "position": "Software Developer",
+      "start_date": "August 2015",
+      "end_date": "July 2019"
+    }
+  ]
+}
