@@ -1,7 +1,7 @@
 import sys
 
-from resumebuilder.layouts.standard_layout import StandardLayout
 from resumebuilder.models.resume import Resume
+from resumebuilder.views.standard_layout import StandardLayout
 
 
 def main(file_prefix):
