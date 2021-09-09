@@ -7,7 +7,7 @@ class ProfileParsingTestCase(unittest.TestCase):
     TEST_FILE_PREFIX = '../data/sample'
 
     def setUp(self) -> None:
-        self.test_experiences = Experiences(self.TEST_FILE_PREFIX).experiences
+        self.test_experiences = Experiences(self.TEST_FILE_PREFIX).rows
 
     def check_experience(self, index, company_id, skills, tech, description):
         self.assertEqual(self.test_experiences[index].company_id, company_id)
