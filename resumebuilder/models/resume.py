@@ -1,6 +1,6 @@
-from resumebuilder.lib.markdown import MarkdownFormatter
 from resumebuilder.models.experiences import Experiences
 from resumebuilder.models.profile import Profile
+from resumebuilder.util.markdown import MarkdownFormatter
 
 
 class Resume:
