@@ -1,7 +1,7 @@
-from resumebuilder.lib.markdown import MarkdownFormatter
 from resumebuilder.models.experiences import Experience, Experiences
 from resumebuilder.models.profile import Profile, PersonalInfo, School, Employer
 from resumebuilder.models.resume import Resume
+from resumebuilder.util.markdown import MarkdownFormatter
 
 
 class StandardLayout:

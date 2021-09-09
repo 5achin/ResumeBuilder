@@ -1,6 +1,6 @@
 import unittest
 
-from resumebuilder.lib.markdown import MarkdownFormatter
+from resumebuilder.util.markdown import MarkdownFormatter
 
 
 class MarkdownDecoratorsTestCase(unittest.TestCase):
